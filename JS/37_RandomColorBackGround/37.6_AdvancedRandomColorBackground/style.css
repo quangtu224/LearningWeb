@@ -1,0 +1,9 @@
+body{
+    display: block;
+}
+.btn{
+    height: 40px;
+    width: 100px;
+    justify-content: center;
+    align-content: center;
+}
