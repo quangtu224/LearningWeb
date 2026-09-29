@@ -18,3 +18,11 @@
   background-size: cover;
   background-position: center;
 }
+
+.copyright {
+  background-color: black;
+}
+
+.sticky-footer {
+  backdrop-filter: blur(3.6px);
+}
